@@ -35,7 +35,6 @@ def query(keyword):
     _headers = {
                 'Host': 'app.gsxt.gov.cn',
                 'Content-Type': CHARSET,
-                'Cookie':'JSESSIONID=ED93DD9095E84CF9A83AF8D37E8BDCDF; SECTOKEN=7399816924015363605; __jsluid_h=e5db740b32297dcbdd76bf38847653be; tlb_cookie=172.16.12.1068080',
                 'Accept': 'application/json',
                 'User-Agent': USER_AGENT,
                 'Accept-Language': ACCEPT_LANGUAGE,
